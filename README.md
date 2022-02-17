@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/buqraoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="buqraoner" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/buqraoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buqraoner" height="30" width="40" /></a>
 <a href="https://instagram.com/buqraoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buqraoner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/boletroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="boletroy" height="30" width="40" /></a>
@@ -22,5 +21,7 @@
 <p><img align="left" width="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="buqraoner" /></p>
 
 <p>&nbsp;<img align="center" width="275"  src="https://github-readme-stats.vercel.app/api?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="buqraoner" /></p>
+
+
 
 
