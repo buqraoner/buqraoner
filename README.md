@@ -21,6 +21,6 @@
 
 <p><img align="left" width="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="buqraoner" /></p>
 
-<p>&nbsp;<img align="center" width="225"  src="https://github-readme-stats.vercel.app/api?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="buqraoner" /></p>
+<p>&nbsp;<img align="center" width="275"  src="https://github-readme-stats.vercel.app/api?username=buqraoner&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="buqraoner" /></p>
 
 
