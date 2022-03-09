@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Buğra Ahmet Öner</h1>
-<h3 align="center">Junior Front-End Developer</h3>
 
 - 🌱 I’m currently learning **React,Redux,Electron**
 
