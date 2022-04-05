@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buğra Ahmet Öner</h1>
 
-- 🌱 I’m currently learning **React,Redux,Electron**
+- 🌱 I’m currently learning **React,Redux,React Native**
 
 - 💬 Ask me about **react**
 
